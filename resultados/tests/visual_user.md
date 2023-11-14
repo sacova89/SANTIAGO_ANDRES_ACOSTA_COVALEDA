@@ -46,88 +46,80 @@ Captura de pantalla
 
 # Order Items Name (A to Z)
 
-Resultado: Fallido
+Resultado: Fallido (bug)
 Captura de pantalla
-![Alt text](image-26.png)
+![Alt text](image-70.png)
 
 
 # Order Items Name (Z to A)
 
 Resultado: Fallido
 Captura de pantalla
-![Alt text](image-27.png)
+![Alt text](image-71.png)
 
 # Order Items Price (low to high)
 
 Resultado:Fallido
 Captura de pantalla
-![Alt text](image-29.png)
+![Alt text](image-69.png)
 
 # Order Items Price (high to low)
 
 Resultado:Fallido
 Caputura de Pantalla
-![Alt text](image-28.png)
+![Alt text](image-72.png)
 
 # Validación de imagen de Item 
 
-Resultado:Exitoso (6 bugs)
+Resultado: Fallido 
 Caputura de Pantalla
-![Alt text](image-16.png)
-![Alt text](image-17.png)
-![Alt text](image-18.png)
-![Alt text](image-19.png)
-![Alt text](image-20.png)
-![Alt text](image-21.png)
-![Alt text](image-22.png)
+![Alt text](image-73.png)
+![Alt text](image-74.png)
 
 # Validación de Precio
 
-Resultado: Fallido
+Resultado: Exitoso
 Caputura de Pantalla
-![Alt text](image-33.png)
+![Alt text](image-75.png)
 
 # Verificar Items Carrito
 
 Resultado:Exitoso
 Caputura de Pantalla
-![Alt text](image-34.png)
-![Alt text](image-35.png)
+![Alt text](image-76.png)
 
 # Botón de Remove Items Carrito
 
 Resultado:Exitoso
 Caputura de Pantalla
-![Alt text](image-36.png)
-![Alt text](image-37.png)
+![Alt text](image-77.png)
 
 # Botón de Continue Shopping
 
 Resultado:Exitoso
 Caputura de Pantalla
-![Alt text](image-38.png)
-![Alt text](image-39.png)
+![Alt text](image-78.png)
 
 # Botón checkout
 
 Resultado:Fallido
 Caputura de Pantalla
-![Alt text](image-40.png)
+![Alt text](image-79.png)
 
 # Diligenciamiento de checkout
 
 Resultado:Fallido
 Caputura de Pantalla
-![Alt text](image-42.png)
+![Alt text](image-80.png)
 
 # Finalizacion de checkout
 
 Resultado:Fallido
 Caputura de Pantalla
-![Alt text](image-41.png)
+![Alt text](image-81.png)
 
 # Cancel Checkout
 
-Resultado:Fallido
+Resultado:Exitoso
 Caputura de Pantalla
-![Alt text](image-43.png)
+![Alt text](image-82.png)

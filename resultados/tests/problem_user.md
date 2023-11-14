@@ -77,7 +77,7 @@ Caputura de Pantalla
 
 # Validación de imagen de Item 
 
-Resultado:Exitoso (6 bugs)
+Resultado:Fallido (6 bugs)
 Caputura de Pantalla
 ![Alt text](image-16.png)
 ![Alt text](image-17.png)
