@@ -17,3 +17,5 @@
 8. Cuando el usuario visual_user ingresa a los items en el carrito, el botón Checkuot no esta en el lugar indicado.
 
 9. Cuando el usuario visual_user ingresa el carrito y el menú se encuentra desorganizados.
+
+10. Cuanto el usuario performance_glitch_user accede y navega dentro del ecommerce se presentan problemas de performance.
