@@ -19,7 +19,7 @@ Usuario con información incorrecta error_user
 
 Usuario problemático problem_user
 
-Usuarion errores visuales visual_user
+Usuari con errores visuales visual_user
 
 #### Áreas a Evaluar:
 
@@ -35,7 +35,7 @@ Funcionalidades específicas de cada usuario
 
 #### Seguimiento de Bugs:
 
-Utilizar una herramienta de seguimiento de problemas (como Jira, Trello).
+Utilizar una herramienta de seguimiento de problemas (como shortcut o clickup).
 
 Crear entradas detalladas para cada bug encontrado, incluyendo capturas de pantalla, pasos para reproducir el error y cualquier información relevante.
 
